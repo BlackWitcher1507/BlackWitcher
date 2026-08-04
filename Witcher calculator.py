@@ -1,0 +1,11 @@
+
+print("hello to witcher calculator")
+print("^"*27)
+print("-"*30)
+num1=float(input("the first number : "))
+num2=float(input("the second number :"))
+print("sum="+str(num1+num2))
+print("subtract="+str(num1-num2))
+print("multiplay="+str(num1*num2))
+print("divide="+str(num1/num2))
+print("-"*40)
