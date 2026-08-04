@@ -1,0 +1,10 @@
+print("smashing machine")
+input()
+name=(input("enter your name :"))                           
+print("let's destroy some enemies "+name)
+print("---------------------------------")
+
+input()
+print("what will we do destroyer?")
+thing=input()
+print("let's go to smaash it")
